@@ -45,7 +45,9 @@
 
 [অপু, অপর্ণা, শুভ্র, এবং কাক।](/golpo/oporna.md)
 
-[শুভ্রর সন্ধ্যা](/golpo/sondha.md)
+[শুভ্রর সন্ধ্যা।](/golpo/sondha.md)
+
+[একটি ব্যস্ত শুক্রবার।](/golpo/kotha.md)
 
 
 
