@@ -1,0 +1,9 @@
+@font-face {
+	font-family: "shuvoletterpress";
+	src: url("../assets/shuvoletterpress.ttf");
+}
+
+@import "{{ site.theme }}";
+.markdown-body {
+  font-family: "shuvoletterpress", Times, serif;
+}
