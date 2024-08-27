@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "shuvoletterpress";
+    src: url(assets/shuvoletterpress.ttf);
+}
+
+body {
+  font-family : "shuvoletterpress"
+}
