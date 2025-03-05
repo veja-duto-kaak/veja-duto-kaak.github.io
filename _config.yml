@@ -314,14 +314,14 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
-      type: posts
+      path: "_2025"
+      type: 2025
     values:
       layout: single
       sidebar:
         nav: "main"
-      author_profile: false
-      read_time: false
-      comments: # true
-      share: false
-      related: false
+      #author_profile: false
+      #read_time: false
+      #comments: # true
+      #share: false
+      #related: false
