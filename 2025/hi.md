@@ -1,1 +1,6 @@
+---
+layout: single
+---
+
+
 **Hello world!!**
