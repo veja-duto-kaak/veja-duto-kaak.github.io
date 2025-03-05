@@ -1,3 +1,7 @@
+----
+layout : single
+---
+
 ## NMC'25 Pariticipants
 
 \* In alphabetical order.
