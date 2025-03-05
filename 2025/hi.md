@@ -1,5 +1,6 @@
 ---
 sidebar:
-    nav : "main"
+    nav: "main"
 ---
+
 **Hello world!!**
