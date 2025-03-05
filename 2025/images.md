@@ -2,5 +2,4 @@
 layout: single
 ---
 
-
-**Hello world!!**
+Nothing here (yet)
