@@ -1,5 +1,5 @@
 # Hompeage links
-home:
+main:
   - title: "Home"
     url: /
   # - title: "About"
