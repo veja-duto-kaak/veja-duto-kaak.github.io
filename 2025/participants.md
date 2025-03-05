@@ -1,5 +1,5 @@
 ---
-title : NMC'25 Participants
+title : "NMC'25 Participants"
 layout : single
 ---
 
@@ -24,6 +24,7 @@ layout : single
 - **MD. Nafis Noor Taseen** (Birshreshtha Noor Mohammad Public College)
 - **Md. Muhtad Asrar** (BGC Academy School and College)
 - **Md. Raihan Siddiquee** (Chattogram College)
+
 - **Mobasshir Ariq** (Birshreshtha Noor Mohammad Public College)
 - **Mohammed Marzuq Rahman** (Cantonment English School & College)
 - **Monamy Zaman** (Viqarunnisa Noon School and College)
@@ -37,4 +38,16 @@ layout : single
 - **Sadia Islam Urme** (Dinajpur Govt. Girls' High School)
 - **Sayem Mohammad Saad** (Chittagong College)
 - **Tahsin Khan** (Mymensingh Zilla School)
+<!-- 
+Bogura 2
+Dhaka 13
+Khulna 1
+Netrokona 1
+Chittagong 8
+Kushtia 1
+Barishal 2
+Dinajpur 2
+Mymensingh 1 -->
+
+
 
