@@ -314,12 +314,11 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
-      type: 2025
+      path: "2025"
     values:
       layout: single
       sidebar:
-        nav: "main"
+        nav : "camp25"
       #author_profile: false
       #read_time: false
       #comments: # true
