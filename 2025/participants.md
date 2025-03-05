@@ -1,8 +1,7 @@
 ---
+title : NMC'25 Participants
 layout : single
 ---
-
-## NMC'25 Pariticipants
 
 \* In alphabetical order.
 
@@ -12,7 +11,7 @@ layout : single
 - **Ahon Banik** (St. Joseph Higher Secondary School)
 - **Aira Rahman** (Police Lines School and College, Bogura)
 - **Arafat Rahman Sajid** (Anjuman Adarsha Govt High School)
-- **Bahab Uddin** (BGC ACADEMY SCHOOL & COLLEGE)
+- **Bahab Uddin** (BGC Academy School & College)
 - **Ehab Faras Bhuiyan** (St. Joseph Higher Secondary School)
 - **Fahim Sadat** (Kushtia Zilla School)
 - **Fijaj Rahman** (Dinajpur Zilla School)
@@ -23,7 +22,7 @@ layout : single
 - **M. Zamiul Hossain** (Rajuk Uttara Model School and College)
 - **MD Manzum Rahman** (Faujdarhat Cadet College)
 - **MD. Nafis Noor Taseen** (Birshreshtha Noor Mohammad Public College)
-- **Md. Muhtad Asrar** (BGC Academy (School and College))
+- **Md. Muhtad Asrar** (BGC Academy School and College)
 - **Md. Raihan Siddiquee** (Chattogram College)
 - **Mobasshir Ariq** (Birshreshtha Noor Mohammad Public College)
 - **Mohammed Marzuq Rahman** (Cantonment English School & College)
@@ -38,6 +37,4 @@ layout : single
 - **Sadia Islam Urme** (Dinajpur Govt. Girls' High School)
 - **Sayem Mohammad Saad** (Chittagong College)
 - **Tahsin Khan** (Mymensingh Zilla School)
-
-### Mentors
 
