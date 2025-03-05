@@ -313,6 +313,11 @@ compress_html:
 # Defaults
 defaults:
   # _posts
+  -scope:
+    path : ""
+    values:
+      layout : single
+      
   - scope:
       path: "2025"
     values:
