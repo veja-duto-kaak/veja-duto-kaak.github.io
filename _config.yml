@@ -314,7 +314,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "2025"
+      path: ""
     values:
       layout: single
       #author_profile: false
