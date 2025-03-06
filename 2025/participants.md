@@ -13,7 +13,6 @@ layout : single
 - **Arafat Rahman Sajid** (Anjuman Adarsha Govt High School)
 - **Bahab Uddin** (BGC Academy School & College)
 - **Ehab Faras Bhuiyan** (St. Joseph Higher Secondary School)
-- **Fahim Sadat** (Kushtia Zilla School)
 - **Fijaj Rahman** (Dinajpur Zilla School)
 - **Jawad Hameem Chowdhury** (Ideal School and College)
 - **Jitendra Barua** (Bakalia Govt. College)
