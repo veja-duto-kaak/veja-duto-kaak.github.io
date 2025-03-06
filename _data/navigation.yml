@@ -8,12 +8,6 @@ main:
   #   url: /year-archive/
   - title: "NMC 2025"
     url: /2025/
-  # - title: "Sitemap"
-  #   url: /sitemap/
 
-camp25:
-  - title : "NMC 2025"
-    url : /2025
-
-  - title : "Images"
-    url : /2025/images
+  # - title: "NMC 2026"
+  #   url: /2026/
