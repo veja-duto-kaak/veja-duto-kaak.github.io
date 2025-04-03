@@ -1,15 +1,58 @@
+## ভেজা দুটো কাক, বসে ভাবে চুপচাপ
+
+**আমার আদরের কাক,**
+
+প্রকৃতির নিয়ম অনুসারে আমাদের জীবনের দীর্ঘ চলার পথে আমাদের নানান বাধার সম্মুখীন হতে হবে। কোনোটা ছোট- কোনোটা বড়। হয়তো আমাদের কিছু স্মৃতি খোয়া যাবে, কিছু আনন্দ মিশে যাবে, কিছু কল্পনা মিলিয়ে যাবে! তাই বলে ধাবমান দুঃসময়ের কথা ভেবে নিজেদের চেষ্টা থামিয়ে দেওয়া যাবেনা। আমাদের গল্প ও কল্পনার স্মৃতি ধরে রাখার জন্যে এটা কেবল একটা ক্ষুদ্র প্রচেষ্টা! আশা করি তোমার ভালো লাগবে। কোনোদিন যদি আমার সাথে কথা বলা সম্ভব না হয়, কিন্তু খুব বেশি মন টানে-  তখন তোমার জন্যে এখানে আমার বলা গল্পগুলি থাকবে। সবসময়।
+
+ইতি,
+তোমার শুভ্র।
+
+
 ---
-layout: single
----
+# গল্প-কবিতা
+[শুভ্রর প্রিয় কবিতা।](/golpo/ipek.md)
 
-Welcome to the National Math Camp portal! This website is dedicated to hosting the front-facing material at the annual **Bangladesh National Math Camp**, or NMC, although I just made that abbreviation up.
+[কল্পনার পরিচয়।](/golpo/kolpona.md)
 
-NMC is an 10-12 days residential camp held in Dhaka every year after the [BdMO](https://matholympiad.org.bd) nationals with the primary goal of IMO team selection. However, NMC is hardly only about math! This website hosts images, write-ups, and other fun stuff that happens each year at NMC.
+[কল্পনার মায়ের বই পড়া।](/golpo/pudding.md)
 
----
+[কল্পনার ডায়েরী।](/golpo/diary.md)
 
-### News
+[কল্পনা ও পিপির অ্যাডভেঞ্চার।](/golpo/mountains.md)
 
-- **6 March, 2025**
+[ছবির গল্প, গল্পের ছবি।](/golpo/chobi.md)
 
-	This website has begun after 10 days of the [2025 National Camp.](/2025/index.md)
+# চিঠিপত্তর
+[কাক ও শুভ্রের প্রথম কথা।](/golpo/monekora.md)
+
+[কাককে লেখা শুভ্রর প্রথম চিঠি।](/golpo/ghum.md)
+
+[ভেজা-শুকনো কাক, বৃষ্টি বিলাস এবং কাকের লেখা জীবনের প্রথম চিঠি।](/golpo/veja.md)
+
+[কাকের রাগ করে কান ধরতে বলা।](/golpo/cha.md)
+
+[বৃষ্টির মাঝে ফিসফিস।](/golpo/aachol.md)
+
+[এখানে কাককে শুভ্র প্রথমবারের মতো কিছু একটা বলেছে, হিহিহি।](/golpo/may15.md)
+
+[কাক কিছু একটা হাতে লিখে শুভ্রকে চমকে দিয়েছিল।](/golpo/kagoj.md)
+
+[কাক এখন থেকে কাক পাখি।](/golpo/kaakpakhi.md)
+
+[কাকের কান্না।](/golpo/kanna.md)
+
+[শুভ্রর মিথ্যে।](/golpo/mitthey.md)
+
+[শুভ্র যে রাতে পাগল হয়ে গিয়েছিল।](/golpo/pagol.md)
+
+[অপু, অপর্ণা, শুভ্র, এবং কাক।](/golpo/oporna.md)
+
+[শুভ্রর সন্ধ্যা।](/golpo/sondha.md)
+
+[একটি ব্যস্ত শুক্রবার।](/golpo/kotha.md)
+
+
+
+
+
+
