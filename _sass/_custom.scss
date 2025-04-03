@@ -1,0 +1,7 @@
+body {
+  background-image: url('/assets/background.png');
+  background-size: cover;  /* Ensures the image covers the entire background */
+  background-repeat: no-repeat; /* Prevents tiling */
+  background-attachment: fixed; /* Keeps the background fixed on scroll */
+  background-position: center; /* Centers the image */
+}
